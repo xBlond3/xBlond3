@@ -64,6 +64,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xBlond3/xBlond3/blob/output/snake.svg" alt="Snake animation" />
-
 ###
